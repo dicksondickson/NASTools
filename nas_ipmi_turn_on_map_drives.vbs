@@ -6,7 +6,7 @@
 'Requires IPMIUtil
 'http://ipmiutil.sourceforge.net/
 
-'This script will turn on the NAS, ping it to see if it is awake and then map the drives.
+'This script will turn on the NAS via IPMI, ping it to see if it is awake and then map the drives.
 'Go through the script and change hostname/ipaddress, user name, password etc where specified.
 
 'Turn on the NAS via IPMI

@@ -1,5 +1,8 @@
+'NAStools v0.1
 'Written by Dickson Chow
-'Jan 30, 2014
+'https://github.com/dicksondickson
+'January 30, 2014
+
 'This script will disconnect the currently mapped drives E and F
 Dim objNetwork
    Set objNetwork = CreateObject("WScript.Network")

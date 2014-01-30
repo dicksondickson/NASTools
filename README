@@ -1,1 +1,7 @@
 NASTools v0.1
+
+Some simple VB scripts for Windows users running their own NAS.
+IPMI versions requires that you motherboard have IPMI capabilities.
+WOL version requires Wake On Lan to be properly configured.
+
+Please edit the scripts to match your configuration.
